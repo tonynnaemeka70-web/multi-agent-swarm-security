@@ -44,7 +44,7 @@ It focuses on authentication, delegated authorization, prompt-injection filterin
 Clone the repository from its actual GitHub URL:
 
 ```bash
-git clone YOUR_ACTUAL_REPOSITORY_URL
+git clone https://github.com/tonynnaemeka70-web/multi-agent-swarm-security.git
 cd multi-agent-swarm-security
 ```
 
